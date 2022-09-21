@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\bin\Debug\netcoreapp3.1\NullableEnumStruct.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\NullableEnumStruct\obj\Debug\netcoreapp3.1\NullableEnumStruct.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DemoLibraryInternalSoloutions/1.0.0": {
+        "runtime": {
+          "DemoLibraryInternalSoloutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoLibraryInternalSoloutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

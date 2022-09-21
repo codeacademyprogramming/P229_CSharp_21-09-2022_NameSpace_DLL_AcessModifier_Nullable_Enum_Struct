@@ -1,0 +1,10 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\bin\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\bin\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\bin\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22921092022\DemoLibraryInternalSoloutions\obj\Debug\netcoreapp3.1\DemoLibraryInternalSoloutions.pdb
